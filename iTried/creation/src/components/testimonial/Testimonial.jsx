@@ -3,7 +3,7 @@ import dropsImage from "../../assets/dropsImage.png";
 import { Pagination } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
-import "swiper/css/navigation";
+import "swiper/css/pagination";
 import "./testimonial.css";
 
 const Data = [
@@ -31,7 +31,7 @@ function Testimonial() {
     <section id="testimonial">
       <h5>Review from Clients</h5>
       <h2>Testimonials</h2>
-      <Swiper className="container testimonials__container"
+      <Swiper className="container.testimonials__container"
        // install Swiper modules
        modules={[ Pagination]}
        spaceBetween={40}
