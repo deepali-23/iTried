@@ -25,12 +25,12 @@ const About = () => {
             <article className="about__card">
               <FiUsers className="about__icons" />
               <h5>Clients</h5>
-              <small>200+ Worldwide </small>
+              <small>worked under many clients </small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icons" />
               <h5>Projects</h5>
-              <small>4+ completed Projects</small>
+              <small>completed many projects</small>
             </article>
 
             {/* <a href="#contact" className="btn btn-primary">
@@ -38,11 +38,17 @@ const About = () => {
             </a> */}
           </div>
           <p>
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text
-          ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has
-        </p>
+            Hello,I'm Deepali Sharma, Passionate and innovative frontend developer with 1.6  years of experience, specializing in creating modern and engaging user
+            interfaces. Skilled in translating design concepts into intuitive and responsive web applications.
+            
+            Proficient in HTML, CSS, and
+            JavaScript, with expertise in popular frontend frameworks such as React. Excels in collaborating with
+            cross-functional teams to deliver high-quality projects on time. Dedicated to staying updated with the latest industry trends
+            and technologies to ensure cutting-edge solutions. Committed to delivering exceptional user experiences through clean and
+            maintainable code. Seeking new opportunities to leverage my skills and contribute to the success of dynamic and forward-thinking
+            organizations."
+          </p>
         </div>
-       
       </div>
     </section>
   );
