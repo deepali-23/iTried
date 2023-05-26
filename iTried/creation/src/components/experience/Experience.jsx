@@ -3,7 +3,7 @@ import "./experience.css";
 import { BsPatchCheckFill } from "react-icons/bs";
 function Experience() {
   return (
-    <section id="experience">
+    <section id="experience" style={{marginTop: "3 rem !important"}}>
       <h5>What Skills I have</h5>
       <h2>My Experience</h2>
       <div className="container experience__container">
