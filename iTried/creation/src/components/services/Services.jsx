@@ -7,45 +7,6 @@ function Services() {
       <h5>What I offer</h5>
       <h2>Services</h2>
       <div className="container services__container">
-        {/* <article className="service">
-          <div className="service__head">
-            <h3>UI/UX Design</h3>
-          </div>
-          <ul className="service__list">
-            <li>
-              <BiCheck className="services__list-icon" />
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the
-              </p>
-            </li>
-            <li>
-              <BiCheck className="services__list-icon" />
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the
-              </p>
-            </li>
-            <li>
-              <BiCheck className="services__list-icon" />
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the
-              </p>
-            </li>
-            <li>
-              <BiCheck className="services__list-icon" />
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the
-              </p>
-            </li>
-          </ul>
-        </article> */}
         {/* End of ui/ux */}
         <article className="service">
           <div className="service__head">
@@ -64,20 +25,20 @@ function Services() {
               <BiCheck className="services__list-icon" />
               <p>
                 Created high-quality mockups and prototypes. Making UI fully responsive across all browsers and device using CSS and
-                Stylecomponents.
+                StyleComponents.
               </p>
             </li>
             <li>
               <BiCheck className="services__list-icon" />
-              <p>Developed and implemented software solutions based on client requirements</p>
+              <p>Developed and implemented software solutions based on client requirements.</p>
             </li>
             <li>
               <BiCheck className="services__list-icon" />
-              <p>Tested and refined software prior to rollout. Released ad hoc product patches</p>
+              <p>Tested and refined software prior to rollout.</p>
             </li>
             <li>
               <BiCheck className="services__list-icon" />
-              <p>Released ad hoc product patches</p>
+              <p>Released ad hoc product patches.</p>
             </li>
           </ul>
         </article>
