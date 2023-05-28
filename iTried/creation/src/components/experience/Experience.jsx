@@ -42,15 +42,35 @@ const data = [
     skill: "Testing and Debugging",
     proficiency: "Intermediate",
   },
+  {
+    id: 9,
+    skill: "Styled-Components",
+    proficiency: "Intermediate",
+  },
+  {
+    id: 10,
+    skill: "Material-Ui",
+    proficiency: "Intermediate",
+  },
+  {
+    id: 10,
+    skill: "Jira",
+    proficiency: "beginner",
+  },
+  {
+    id: 11,
+    skill: "Nodejs",
+    proficiency: "beginner",
+  },
 ];
 function Experience() {
   return (
-    <section id="experience" style={{ marginTop: "3 rem !important" }}>
+    <section id="experience">
       <h5>What Skills I have</h5>
       <h2>My Experience</h2>
       <div className="container experience__container">
         <div className="experience__frontend">
-          <h3>Frontend Development</h3>
+          <h3>Professional Skills</h3>
           <div className="experience__content">
             {data.map(({ id, skill, proficiency }) => {
               return (
@@ -66,7 +86,7 @@ function Experience() {
           </div>
         </div>
         {/* End of frontend */}
-        <div className="experience__backend">
+        {/* <div className="experience__backend">
           <h3>Backend Development</h3>
           <div className="experience__content">
             <article className="experience__details">
@@ -85,7 +105,7 @@ function Experience() {
               </div>
             </article>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );

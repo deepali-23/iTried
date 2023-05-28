@@ -22,11 +22,11 @@ const About = () => {
               <h5>Experience</h5>
               <small>1.8 Years Working Experience</small>
             </article>
-            <article className="about__card">
+            {/* <article className="about__card">
               <FiUsers className="about__icons" />
               <h5>Clients</h5>
               <small>worked under many clients </small>
-            </article>
+            </article> */}
             <article className="about__card">
               <VscFolderLibrary className="about__icons" />
               <h5>Projects</h5>
@@ -38,9 +38,10 @@ const About = () => {
             </a> */}
           </div>
           <p>
-            Hello,I'm Deepali Sharma, Passionate and innovative frontend developer with 1.6  years of experience, specializing in creating modern and engaging user
+            Hello, I'm Deepali Sharma, Passionate and innovative frontend developer with 1.6  years of experience, specializing in creating modern and engaging user
             interfaces. Skilled in translating design concepts into intuitive and responsive web applications.
-            
+            <br />
+            <br/>
             Proficient in HTML, CSS, and
             JavaScript, with expertise in popular frontend frameworks such as React. Excels in collaborating with
             cross-functional teams to deliver high-quality projects on time. Dedicated to staying updated with the latest industry trends
