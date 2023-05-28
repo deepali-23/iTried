@@ -27,7 +27,7 @@ const data = [
     title: "Portfolio",
     github: "https://github.com/deepali-23/iTried",
     description: "Responsive Portfolio",
-    demo: "",
+    demo: "https://6473a303bf49b765713a6f74--cool-meringue-9f719e.netlify.app/",
   },
 ];
 
