@@ -31,7 +31,7 @@ function Footer() {
           <a href="#contact">Contact</a>
         </li>
       </ul>
-      <div className="footer__socials">
+      {/* <div className="footer__socials">
         <a href="https://facebook.com">
           <FaFacebookF />
         </a>
@@ -42,7 +42,7 @@ function Footer() {
           <IoLogoTwitter />
         </a>
       </div>
-      {/* <div className="footer__copyright">
+      <div className="footer__copyright">
         <small>&copy; All rights reserved</small>
       </div> */}
     </footer>
