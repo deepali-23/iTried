@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import Mern from "../../assets/Mern.png";
+import Test from "../../assets/testingpic.jpg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -12,7 +12,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={Mern} alt="About Image" />
+            <img src={Test} alt="About Image" />
           </div>
         </div>
         <div className="about__content">
@@ -20,7 +20,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icons" />
               <h5>Experience</h5>
-              <small>1.8 Years Working Experience</small>
+              <small>3 Years Working Experience</small>
             </article>
             {/* <article className="about__card">
               <FiUsers className="about__icons" />
@@ -38,16 +38,26 @@ const About = () => {
             </a> */}
           </div>
           <p>
-            Hello, I'm Deepali Sharma, Passionate and innovative frontend developer with 1.6  years of experience, specializing in creating modern and engaging user
-            interfaces. Skilled in translating design concepts into intuitive and responsive web applications.
+            I am an experienced and innovative QA Tester with 3 years of
+            hands-on experience, specializing in ensuring the quality and
+            functionality of web applications. Skilled in identifying and
+            resolving bugs, conducting thorough testing, and ensuring seamless
+            user experiences.
             <br />
-            <br/>
-            Proficient in HTML, CSS, and
-            JavaScript, with expertise in popular frontend frameworks such as React. Excels in collaborating with
-            cross-functional teams to deliver high-quality projects on time. Dedicated to staying updated with the latest industry trends
-            and technologies to ensure cutting-edge solutions. Committed to delivering exceptional user experiences through clean and
-            maintainable code. Seeking new opportunities to leverage my skills and contribute to the success of dynamic and forward-thinking
-            organizations."
+            <br />
+            Proficient in testing methodologies including manual testing,
+            automation, regression testing, and functional testing. Experienced
+            with tools like Selenium, Jest, Mocha, and others for automating
+            test cases and maintaining test scripts. Adept at working closely
+            with development teams to ensure high-quality releases and timely
+            project delivery. Committed to providing efficient, high-quality
+            testing solutions through detailed attention to detail,
+            comprehensive test cases, and clear documentation. I continuously
+            stay updated with the latest trends and best practices in QA testing
+            to contribute to the success of dynamic, forward-thinking teamsce,
+            specializing in creating modern and engaging user interfaces.
+            Skilled in translating design concepts into intuitive and responsive
+            web applications.
           </p>
         </div>
       </div>

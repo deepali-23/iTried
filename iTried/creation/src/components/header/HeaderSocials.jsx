@@ -12,7 +12,7 @@ function HeaderSocials() {
       >
         <BsLinkedin />
       </a>
-      <a href="https://github.com/deepali-23/react_dashboard" target="_blank">
+      <a href="https://github.com/deepali-23" target="_blank">
         <FaGithub />
       </a>
       {/* <a href="https://dribble.com" target="_blank">

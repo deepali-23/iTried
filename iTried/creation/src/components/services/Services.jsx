@@ -10,35 +10,62 @@ function Services() {
         {/* End of ui/ux */}
         <article className="service">
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>Quality Assurance Engineer</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="services__list-icon" />
-              <p>Day to day responsibilities to build up the product module/feature end to end in front-end.</p>
-            </li>
-            <li>
-              <BiCheck className="services__list-icon" />
-              <p>Design and review product architecture Modifies code to fix errors.</p>
-            </li>
-            <li>
-              <BiCheck className="services__list-icon" />
               <p>
-                Created high-quality mockups and prototypes. Making UI fully responsive across all browsers and device using CSS and
-                StyleComponents.
+                I offer in-depth manual testing to ensure the functionality,
+                usability, and stability of applications. This includes test
+                case creation, execution, and documentation to identify defects
+                before production.
               </p>
             </li>
             <li>
               <BiCheck className="services__list-icon" />
-              <p>Developed and implemented software solutions based on client requirements.</p>
+              <p>
+                I perform functional testing to validate that the application’s
+                features work as expected according to the requirements. This
+                includes testing user interactions, workflows, and overall
+                functionality.
+              </p>
             </li>
             <li>
               <BiCheck className="services__list-icon" />
-              <p>Tested and refined software prior to rollout.</p>
+              <p>
+                I perform regression testing to ensure that new changes, bug
+                fixes, or features don't negatively affect existing
+                functionality, ensuring the stability of the application
+                throughout the development lifecycle.
+              </p>
             </li>
             <li>
               <BiCheck className="services__list-icon" />
-              <p>Released ad hoc product patches.</p>
+              <p>
+                I evaluate the application's usability to ensure it provides an
+                intuitive and user-friendly experience. I focus on navigation,
+                design elements, and ease of use to ensure it aligns with user
+                expectations.
+              </p>
+            </li>
+            <li>
+              <BiCheck className="services__list-icon" />
+              <p>
+                I conduct exploratory testing to identify issues that may not be
+                covered by test cases or automated scripts. This approach
+                leverages creativity and experience to uncover hidden defects or
+                unexpected behaviors.
+              </p>
+            </li>
+            <li>
+              <BiCheck className="services__list-icon" />
+              <p>
+                I thoroughly document and report bugs or issues using
+                bug-tracking tools like JIRA or Trello, providing detailed steps
+                to reproduce the issue and working closely with developers to
+                facilitate quick resolution.
+              </p>
             </li>
           </ul>
         </article>

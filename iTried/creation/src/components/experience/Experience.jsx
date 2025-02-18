@@ -4,62 +4,83 @@ import { BsPatchCheckFill } from "react-icons/bs";
 const data = [
   {
     id: 1,
-    skill: "HTML5",
-    proficiency: "Intermediate",
+    skill: "Selenium",
+    proficiency: "beginner",
   },
   {
     id: 2,
-    skill: "CSS3",
-    proficiency: "Intermediate",
+    skill: "Java",
+    proficiency: "beginner",
   },
   {
     id: 3,
-    skill: "JavaScript (ES6+)",
+    skill: "Jira",
     proficiency: "Intermediate",
   },
   {
     id: 4,
-    skill: "React.js",
+    skill: "VS Code",
     proficiency: "Intermediate",
   },
   {
     id: 5,
-    skill: "Responsive Web Design",
+    skill: "Postman",
     proficiency: "Intermediate",
   },
   {
     id: 6,
-    skill: "Version Control (Git)",
+    skill: "Git",
     proficiency: "Intermediate",
   },
   {
     id: 7,
-    skill: "Package Managers",
-    proficiency: "Intermediate",
-  },
-  {
-    id: 8,
-    skill: "Testing and Debugging",
-    proficiency: "Intermediate",
-  },
-  {
-    id: 9,
-    skill: "Styled-Components",
-    proficiency: "Intermediate",
-  },
-  {
-    id: 10,
-    skill: "Material-Ui",
-    proficiency: "Intermediate",
-  },
-  {
-    id: 10,
-    skill: "Jira",
+    skill: "BrowseStack",
     proficiency: "beginner",
   },
   {
+    id: 9,
+    skill: "Jenkins",
+    proficiency: "beginner",
+  },
+  {
+    id: 10,
+    skill: "SQL",
+    proficiency: "beginner",
+  },
+
+  {
     id: 11,
-    skill: "Nodejs",
+    skill: "PgAdmin",
+    proficiency: "beginner",
+  },
+  {
+    id: 12,
+    skill: "Functions and Visual Testing",
+    proficiency: "Intermediate",
+  },
+  {
+    id: 13,
+    skill: "gAndi",
+    proficiency: "beginner",
+  },
+  {
+    id: 14,
+    skill: "HTML5",
+    proficiency: "Intermediate",
+  },
+  {
+    id: 15,
+    skill: "CSS3",
+    proficiency: "Intermediate",
+  },
+  {
+    id: 16,
+    skill: "JavaScript (ES6+)",
+    proficiency: "Intermediate",
+  },
+  {
+    id: 17,
+    skill: "React.js",
     proficiency: "beginner",
   },
 ];
