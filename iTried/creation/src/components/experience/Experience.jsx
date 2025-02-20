@@ -5,7 +5,7 @@ const data = [
   {
     id: 1,
     skill: "Selenium",
-    proficiency: "beginner",
+    proficiency: "Intermediate",
   },
   {
     id: 2,
@@ -19,67 +19,66 @@ const data = [
   },
   {
     id: 4,
-    skill: "VS Code",
+    skill: "JavaScript (ES6+)",
     proficiency: "Intermediate",
   },
   {
     id: 5,
-    skill: "Postman",
-    proficiency: "Intermediate",
-  },
-  {
-    id: 6,
-    skill: "Git",
-    proficiency: "Intermediate",
-  },
-  {
-    id: 7,
-    skill: "BrowseStack",
+    skill: "Maven",
     proficiency: "beginner",
   },
   {
-    id: 9,
+    id: 6,
     skill: "Jenkins",
     proficiency: "beginner",
   },
   {
-    id: 10,
+    id: 7,
+    skill: "Git",
+    proficiency: "Intermediate",
+  },
+  {
+    id: 8,
     skill: "SQL",
     proficiency: "beginner",
   },
 
   {
-    id: 11,
-    skill: "PgAdmin",
-    proficiency: "beginner",
+    id: 9,
+    skill: "VS Code",
+    proficiency: "Intermediate",
   },
   {
-    id: 12,
-    skill: "Functions and Visual Testing",
+    id: 10,
+    skill: "Postman",
     proficiency: "Intermediate",
+  },
+
+  {
+    id: 11,
+    skill: "Agile Methodology, STLC",
+    proficiency: "beginner",
+  },
+
+  {
+    id: 12,
+    skill: "Eclipse",
+    proficiency: "beginner",
   },
   {
     id: 13,
-    skill: "gAndi",
-    proficiency: "beginner",
+    skill: "Functions and Visual Testing",
+    proficiency: "Intermediate",
   },
+
   {
     id: 14,
-    skill: "HTML5",
+    skill: "HTML5 & CSS",
     proficiency: "Intermediate",
   },
+
   {
     id: 15,
-    skill: "CSS3",
-    proficiency: "Intermediate",
-  },
-  {
-    id: 16,
-    skill: "JavaScript (ES6+)",
-    proficiency: "Intermediate",
-  },
-  {
-    id: 17,
     skill: "React.js",
     proficiency: "beginner",
   },
