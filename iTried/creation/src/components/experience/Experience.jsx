@@ -63,7 +63,7 @@ const data = [
   {
     id: 12,
     skill: "Eclipse",
-    proficiency: "beginner",
+    proficiency: "Intermediate",
   },
   {
     id: 13,
